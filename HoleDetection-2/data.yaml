@@ -1,0 +1,13 @@
+names:
+- EmptyHole
+- FilledHole
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: holedetection-8zhc9
+  url: https://universe.roboflow.com/ml-class-ra4ks/holedetection-8zhc9/dataset/2
+  version: 2
+  workspace: ml-class-ra4ks
+test: ../test/images
+train: HoleDetection-2/train/images
+val: HoleDetection-2/valid/images
